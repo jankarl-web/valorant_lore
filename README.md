@@ -3,7 +3,7 @@
 A simple Valorant Lore site that tells the different story of every agents. (NOT YET RESPONSIVE)
 
 ##  Live Demo
-You can view the live project here: [https://student-it-web.github.io/valorant_lore/src/]
+You can view the live project here: [https://jankarl-web.github.io/valorant_lore/src/]
 
 ##  Features
 * **Interactive Agent Cards:** Hover effects with custom sound triggers.
