@@ -798,6 +798,11 @@ ul {
 
   .footer-section p {
     width: auto;
+    font-size: 14px;
+  }
+
+  .footer-section{
+    height: 50vh;
   }
 
   .video-overlay p {
