@@ -1,6 +1,17 @@
 # VALORANT Lore & Agent Select Clone
 
-A simple Valorant Lore site that tells the different story of every agents. (NOT YET RESPONSIVE)
+An immersive web experience exploring the backstories and lore of VALORANT agents. (Mobile responsiveness currently in development.)
+
+## Project Preview
+
+![Project Screenshot](hero4.jpg)
+<br><br>
+![Project Screenshot](hero3.jpg)
+<br><br>
+![Project Screenshot](hero2.jpg)
+<br><br>
+![Project Screenshot](hero1.jpg)
+
 
 ##  Live Demo
 You can view the live project here: [https://jankarl-web.github.io/valorant_lore/src/]
