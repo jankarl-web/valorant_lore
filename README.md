@@ -1,16 +1,15 @@
 # VALORANT Lore & Agent Select Clone
 
-An immersive web experience exploring the backstories and lore of VALORANT agents. (Mobile responsiveness currently in development.)
-
+ Uncover the secrets of the VALORANT Protocol. An immersive lore-hub for the agents you main. (Best viewed on Desktop while mobile optimization is in the works.)
 ## Project Preview
 
-![Project Screenshot](hero4.jpg)
+
 <br><br>
 ![Project Screenshot](hero3.jpg)
-<br><br>
-![Project Screenshot](hero2.jpg)
-<br><br>
+<br><br><br>
 ![Project Screenshot](hero1.jpg)
+<br><br><br>
+![Project Screenshot](hero2.jpg)
 
 
 ##  Live Demo
